@@ -1,0 +1,10 @@
+---
+title: "data read from web"
+author: "Jason Wang"
+date: "10/9/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
